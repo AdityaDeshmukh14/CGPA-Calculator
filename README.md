@@ -1,7 +1,7 @@
 # CGPA-Calculator
  
 ## Description
-- This project is a GPA calculator for the US universities. It allows users to calculate their term GPA and overall CGPA.
+This project is a GPA calculator for the US universities. It allows users to calculate their term GPA and overall CGPA.
 
 ## Features
 - Help students check their GPA with just the letter grade
@@ -24,6 +24,9 @@
 ## Technologies Used
 - C++
 - Standard Library
+- Data Structures
+- Basic Searching & Sorting algorithms
+- File Handling (I/O Streams)
 
 ## Known Issues
 - Input validation may not be robust in all cases. 
